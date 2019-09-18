@@ -27,11 +27,11 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>PMRFKHZTP.com.gz.bingoopsar</string>
+				<string>com.gz.bingoopsar</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>rrrr</string>
+				<string>Bingo OpsAR</string>
 			</dict>
 		</dict>
 	</array>
