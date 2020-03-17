@@ -617,3 +617,6 @@ a.css-1yldjmr{
   .CommentsV2-footer{
       border-top-color: #666;
   }
+  .NestComment .NestComment--child:after{position:absolute;left:0;right:0;bottom:0;display:block;margin-right:20px;margin-left:84px;border-bottom:1px solid #666;content:""}
+  .NestComment--child:after{border-bottom:1px solid #666}
+  .NestComment--rootComment:after{position:absolute;left:0;right:0;bottom:0;display:block;margin-right:20px;margin-left:52px;border-bottom:1px solid #666;content:""}
